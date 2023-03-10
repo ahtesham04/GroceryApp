@@ -1,0 +1,67 @@
+.main {
+    height: 295px;
+    margin-top: 25px;
+}
+
+img {
+    height: 295px;
+}
+
+#slider .carousel-item {
+    height: 500px;
+}
+
+.carousel-caption {
+    font-size: 18px;
+}
+
+.carousel-item>img {
+    width: 80%;
+}
+
+.menu-holder {
+    height: 550px;
+    /* border: 1px solid black; */
+    /* background-color: #fff; */
+    /* box-shadow: 0px 2px 5px 2px rgba(0, 0, 0, 0.2); */
+    margin-top: 15px;
+}
+
+.footer {
+    height: 300px;
+    margin-top: 15px;
+    border: 1px solid black;
+    background-color: #2d404a;
+    color: white;
+}
+
+.cStyle {
+    border: none;
+    background-size: cover;
+    transition: 0.5s ease;
+    cursor: pointer;
+
+}
+
+.cStyle:hover {
+    transform: scale(1.2);
+    box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.6);
+    z-index: 999;
+}
+
+.heading {
+    font-weight: bold;
+    margin-top: 30px;
+    margin-left: 0px;
+    text-align: center;
+    color: #ccc;
+}
+
+ul {
+    list-style: none;
+}
+
+ul li {
+    margin-left: 80px;
+
+}
